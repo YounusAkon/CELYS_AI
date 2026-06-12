@@ -52,7 +52,8 @@ header p {
     color: #222;
 }
 
-.card ul {
+.card ul,
+.card ol {
     padding-left: 20px;
 }
 
